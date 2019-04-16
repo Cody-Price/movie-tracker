@@ -50,7 +50,10 @@ In the movie-tracker directory, you can run the test files using:
 
 <a href="https://imgflip.com/gif/2yqafm"><img src="https://i.imgflip.com/2yqafm.gif" title="made at imgflip.com"/></a>
 
-![Second screenshot of app](app2.png)
+###### Favoriting:
+
+<a href="https://imgflip.com/gif/2yqe70"><img src="https://i.imgflip.com/2yqe70.gif" title="made at imgflip.com"/></a>
+
 
 #### Contributors
 * Cole Vanacore: https://github.com/colev1
