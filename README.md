@@ -54,6 +54,9 @@ In the movie-tracker directory, you can run the test files using:
 
 <a href="https://imgflip.com/gif/2yqe70"><img src="https://i.imgflip.com/2yqe70.gif" title="made at imgflip.com"/></a>
 
+###### Searching:
+
+<a href="https://imgflip.com/gif/2yqf6c"><img src="https://i.imgflip.com/2yqf6c.gif" title="made at imgflip.com"/></a>
 
 #### Contributors
 * Cole Vanacore: https://github.com/colev1
