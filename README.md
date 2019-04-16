@@ -46,7 +46,9 @@ In the movie-tracker directory, you can run the test files using:
 
 ##### Our App:
 
-![Screenshot of app](app1.png)
+###### Login:
+
+<a href="https://imgflip.com/gif/2yqafm"><img src="https://i.imgflip.com/2yqafm.gif" title="made at imgflip.com"/></a>
 
 ![Second screenshot of app](app2.png)
 
