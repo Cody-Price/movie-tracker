@@ -3,6 +3,11 @@
 ### Description of App:
 In this application, we utilized The Movie DB API to create a personalized movie application to allow users to view, favorite, and search for movies within the database. The main goal of the project was to allow users to create accounts, favorite movies, and then be able to view those favorited movies when signing back in at a later time. This application contains a backend server to validate users as well as a client-side frontend created using create-react-app. We used react, redux, react router, and redux thunk middleware to create the front end application.
 
+###### Demo:
+<a href="https://imgflip.com/gif/2yqafm"><img src="https://i.imgflip.com/2yqafm.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2yqe70"><img src="https://i.imgflip.com/2yqe70.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2yqf6c"><img src="https://i.imgflip.com/2yqf6c.gif" title="made at imgflip.com"/></a>
+
 ### Technologies used:
 * React
 * Redux
@@ -43,14 +48,6 @@ In the movie-tracker directory, you can run the test files using:
 ![Wireframe of homepage](wireframe1.png)
 
 ![Wireframe of viewing movie](wireframe2.png)
-
-##### Our App:
-
-
-
-<a href="https://imgflip.com/gif/2yqafm"><img src="https://i.imgflip.com/2yqafm.gif" title="made at imgflip.com"/></a>
-<a href="https://imgflip.com/gif/2yqe70"><img src="https://i.imgflip.com/2yqe70.gif" title="made at imgflip.com"/></a>
-<a href="https://imgflip.com/gif/2yqf6c"><img src="https://i.imgflip.com/2yqf6c.gif" title="made at imgflip.com"/></a>
 
 #### Contributors
 * Cole Vanacore: https://github.com/colev1
