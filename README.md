@@ -1,12 +1,29 @@
 # Movie Tracker 
 
-### Description of App:
-In this application, we utilized The Movie DB API to create a personalized movie application to allow users to view, favorite, and search for movies within the database. The main goal of the project was to allow users to create accounts, favorite movies, and then be able to view those favorited movies when signing back in at a later time. This application contains a backend server to validate users as well as a client-side frontend created using create-react-app. We used react, redux, react router, and redux thunk middleware to create the front end application.
+### Introduction
 
-###### Demo:
+Movie Tracker is an application built using the [Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction) in order to help it's personalized users browse, search for, as well as favorite/unfavorite any movie they come across.
+
+This project was assigned to be completed in less than 5 days requiring communication between myself and two other team members. It was our first time utilizing a back end database and server to store and retrieve information.
+
+### Demo
 <a href="https://imgflip.com/gif/2yqafm"><img src="https://i.imgflip.com/2yqafm.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/2yqe70"><img src="https://i.imgflip.com/2yqe70.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/2yqf6c"><img src="https://i.imgflip.com/2yqf6c.gif" title="made at imgflip.com"/></a>
+
+### Prerequisites
+
+This application asumes that you have the following installed on your machine:
+
+- [node](https://www.npmjs.com/get-npm)
+- [npm](https://www.npmjs.com/get-npm)
+
+### Setup
+
+1. Fork this repository by clicking on the "Fork" button on the top-right of this page.
+
+2. Open your terminal and navigate to the working directory (for instructions on how to navigate through your terminal see [here](https://ccrma.stanford.edu/guides/planetccrma/terminal.html)) you want your new directory to be located, and enter the following command:
+`git clone https://github.com/YOUR_GITHUB_USERNAME_HERE/BFit_fe`
 
 ### Technologies used:
 * React
@@ -15,9 +32,6 @@ In this application, we utilized The Movie DB API to create a personalized movie
 * Redux-Thunk Middleware
 * Jest
 * Enzyme
-
-### Setup:
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #### Backend
 To view this application, you first need to run the backend server by following these instructions:
@@ -41,6 +55,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 In the movie-tracker directory, you can run the test files using:
 `npm test`
 
+
+### Built With
+
+### Setup:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Design and Layout
 
