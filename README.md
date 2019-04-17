@@ -68,7 +68,7 @@ This application is not yet in the deployment phase, however if you would like t
 
 ### Built With
 
-- [Create React App](https://github.com/facebook/create-react-app)
+- [Create React App](https://github.com/facebook/create-react-app) - Common React Project Boilerplate
 - [React](https://reactjs.org/) - Library/Framework
 - [Redux](https://redux.js.org/) - State Container
 - [Router](https://github.com/ReactTraining/react-router) - Declarative Routing
