@@ -43,8 +43,8 @@ export const MovieContainer = (props) => {
 MovieContainer.propTypes = {
 	movies: PropTypes.arrayOf(PropTypes.object).isRequired,
 	favorites: PropTypes.arrayOf(PropTypes.object),
-	isLoading: PropTypes.bool.isRequired,
-	error: PropTypes.string.isRequired
+	isLoading: PropTypes.bool,
+	error: PropTypes.string
 }
 
 export const mapStateToProps = (state) => ({
