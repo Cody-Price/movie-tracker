@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Cody-Price/movie-tracker.svg?branch=master)](https://travis-ci.org/Cody-Price/movie-tracker)
+
 # Movie Tracker 
 
 Movie Tracker is an application built using the [Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction) in order to help it's personalized users browse, search for, as well as favorite/unfavorite any movie they come across.
