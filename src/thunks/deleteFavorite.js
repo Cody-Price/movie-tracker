@@ -1,7 +1,7 @@
 import { deleteFavoriteFromStore, hasErrored } from '../actions';
 
 export const deleteFavorite =  (movie, uid) => {
-  const url = `http://localhost:3000/api/users/${uid}/favorites/${movie.movie_id}`;
+  const url = `https://movie-tracker-cody-be.herokuapp.com/api/users/${uid}/favorites/${movie.movie_id}`;
   return async (dispatch) => {
     try {
       const response = await fetch(url, {

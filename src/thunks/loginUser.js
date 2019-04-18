@@ -1,7 +1,7 @@
 import { isLoading, hasErrored, loginUserAction } from '../actions'
 
 export const loginUser = (user) => {
-  const url = 'http://localhost:3000/api/users/';
+  const url = 'https://movie-tracker-cody-be.herokuapp.com/api/users/';
   return async (dispatch) => {
     try {
       dispatch(isLoading(true))

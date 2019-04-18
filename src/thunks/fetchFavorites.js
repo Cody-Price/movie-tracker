@@ -1,7 +1,7 @@
 import { isLoading, addFavorites, hasErrored } from '../actions';
 
 export const fetchFavorites = (userId) => {
-  const url = `http://localhost:3000/api/users/${userId}/favorites`;
+  const url = `https://movie-tracker-cody-be.herokuapp.com/api/users/${userId}/favorites`;
   return async (dispatch) => {
     try {
     dispatch(isLoading(true))
