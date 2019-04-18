@@ -15,4 +15,4 @@ deploy:
   skip_cleanup: true
 scripts:
   start: node server.js
-  test: NODE_ENV=test mocha --exit
+  test: NODE_ENV=test jest --exit
