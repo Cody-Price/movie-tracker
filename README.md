@@ -1,7 +1,5 @@
 # Movie Tracker 
 
-### Introduction
-
 Movie Tracker is an application built using the [Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction) in order to help it's personalized users browse, search for, as well as favorite/unfavorite any movie they come across.
 
 This project was assigned to be completed in less than 5 days requiring communication between myself and two other team members. It was our first time utilizing a back end database and server to store and retrieve information.
@@ -64,7 +62,9 @@ This application asumes that you have the following installed on your machine:
 
 ### Deployment
 
-This application is not yet in the deployment phase, however if you would like to contribute, please see the <a href="#contributing">Contributing</a> section.
+The Front End of this application is currently deployed via [TravisCI](https://travis-ci.org/) to [Heroku](https://www.heroku.com/) [Here](http://movie-tracker-cody.herokuapp.com/)
+
+The Back End of this application is in progress of being deployed
 
 ### Built With
 
