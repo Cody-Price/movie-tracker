@@ -13,6 +13,7 @@ export const createUser = (user) => {
         body: JSON.stringify(user)
       })
       if (!response.ok) {
+        console.log('response.statusText for new user:', response.statusText)
         throw Error(response.statusText)
       }
       dispatch(isLoading(false))
