@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/Cody-Price/movie-tracker.svg?branch=master)](https://travis-ci.org/Cody-Price/movie-tracker)
+![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
+
 
 # Movie Tracker 
 
