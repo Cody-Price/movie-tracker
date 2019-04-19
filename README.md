@@ -64,7 +64,7 @@ This application asumes that you have the following installed on your machine:
 
 ### Deployment
 
-The [Front End](http://movie-tracker-cody.herokuapp.com/) of this application is currently deployed via [TravisCI](https://travis-ci.org/) to [Heroku](https://www.heroku.com/)
+The Front End of this application is currently deployed via [TravisCI](https://travis-ci.org/) to [Heroku](https://www.heroku.com/) and is located at [http://movie-tracker-cody.herokuapp.com/](http://movie-tracker-cody.herokuapp.com/)
 
 The [Back End](https://github.com/Cody-Price/movie-tracker-cody-be) of this application is in progress of being deployed
 
